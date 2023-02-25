@@ -45,4 +45,4 @@ FillArray(arr);
 string Print = PrintArray(arr);
 string Print2 = NumberOddIndexes(arr);
 Console.WriteLine(Print);
-Console.WriteLine(Print2);
+Console.WriteLine(Print2 + " - сумма элементов, стоящих на нечетной позиции");
